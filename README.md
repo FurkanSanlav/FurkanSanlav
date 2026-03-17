@@ -18,7 +18,7 @@ I am an eager **AI Engineering** student at Hacettepe University focused on solv
 ### 📊 [Power Plant Analytics & Predictive Modeling](https://github.com/FurkanSanlav/power-plant-analysis)
 Developed a data science pipeline to analyze power plant data. Implemented clustering and predictive models including **Logistic Regression**, **KNN**, and **Decision Trees** to optimize performance metrics and forecast energy output.
 
-### 👾 [Space Invader: High-Performance 2D Game](https://github.com/FurkanSanlav/space-invader-java)
+### 👾 [Space Invader: High-Performance 2D Game](https://github.com/FurkanSanlav/space-invader)
 Engineered a frame-synced 2D shooter using **JavaFX**. Implemented an **AnimationTimer** rendering loop to ensure 60 FPS performance alongside complex **Object-Oriented** systems for game entities, collision detection, and real-time input handling.
 
 ---
