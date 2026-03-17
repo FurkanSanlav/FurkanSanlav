@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Furkan Sanlav👋
 
-<!--
-**FurkanSanlav/FurkanSanlav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineering Student | Machine Learning & Deep Learning Enthusiast
 
-Here are some ideas to get you started:
+I am an eager **AI Engineering** student at Hacettepe University focused on solving real-world, data-driven problems through practical implementation in Python and Java. I am currently focused on **Deep Learning** and **Neural Network** architectures.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Skills
+
+* **Languages:** Python, Java, C++, SQL
+* **AI/ML:** Machine Learning, Deep Learning, Neural Networks, Clustering, Predictive Modeling.
+* **Software Development:** Object-Oriented Programming (OOP), Data Structures & Algorithms.
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 [Power Plant Analytics & Predictive Modeling](https://github.com/FurkanSanlav/power-plant-analysis)
+Developed a data science pipeline to analyze power plant data. Implemented clustering and predictive models including **Logistic Regression**, **KNN**, and **Decision Trees** to optimize performance metrics and forecast energy output.
+
+### 👾 [Space Invader: High-Performance 2D Game](https://github.com/FurkanSanlav/space-invader-java)
+Engineered a frame-synced 2D shooter using **JavaFX**. Implemented an **AnimationTimer** rendering loop to ensure 60 FPS performance alongside complex **Object-Oriented** systems for game entities, collision detection, and real-time input handling.
+
+---
+
+## 🏆 Honors & Awards
+
+* **Finalist (2026)** – HUPROG Algorithm Competition.
+
+---
+
+## 📈 My Stats
+![Furkan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FurkanSanlav&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanSanlav&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect
+* **LinkedIn:** [linkedin.com/in/furkansanlav](https://www.linkedin.com/in/furkansanlav)
+* **Email:** [frknsanlav42@gmail.com](mailto:frknsanlav42@gmail.com)
