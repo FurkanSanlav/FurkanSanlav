@@ -15,6 +15,9 @@ I am an eager **AI Engineering** student at Hacettepe University focused on solv
 
 ## 🚀 Featured Projects
 
+### 📡 [IITF: Dual-Trace Telemetry Forecasting](https://github.com/FurkanSanlav/IITF_Project)
+Architected a deep learning system utilizing **Dual-Trace LSTMs** to forecast multi-distribution cloud telemetry. Implemented **Huber Loss** for outlier resilience and engineered a high-velocity pipeline optimized for **CUDA** acceleration, achieving a **95% reduction** in training latency. The baseline model achieves a global **MAE of 78.85**, maintaining a **<1% average error rate** across 358,000+ test samples from the Bitbrains GWA-T-12 dataset.
+
 ### 📊 [Power Plant Analytics & Predictive Modeling](https://github.com/FurkanSanlav/power-plant-analysis)
 Developed a data science pipeline to analyze power plant data. Implemented clustering and predictive models including **Logistic Regression**, **KNN**, and **Decision Trees** to optimize performance metrics and forecast energy output.
 
